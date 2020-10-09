@@ -1,0 +1,4 @@
+﻿beautifulsoup4==4.9.1
+bs4==0.0.1
+requests==2.23.0
+twilio==6.45.4
