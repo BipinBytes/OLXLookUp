@@ -2,8 +2,8 @@
 
 repo_uri="https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
 remote_name="origin"
-main_branch="main"
-target_branch="main"
+main_branch="master"
+target_branch="master"
 
 cd "$GITHUB_WORKSPACE"
 
